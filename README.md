@@ -118,3 +118,7 @@ Tutor — Android-приложение для создания и прохожд
 [Зависимости](docs/ru/dependencies.md),
 [Тестирование](docs/ru/testing.md),
 [UI-гайд](docs/ru/ui-guidelines.md)
+
+---
+
+![Скриншот приложения](assets/screenshot.png)
