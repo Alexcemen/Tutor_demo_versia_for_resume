@@ -1,0 +1,7 @@
+package ru.project.tutor.common_ui.composable.mvi
+
+import androidx.navigation3.runtime.NavKey
+
+abstract class AppNavKey : NavKey {
+    open val type: String = ""
+}
