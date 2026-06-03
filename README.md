@@ -120,6 +120,6 @@ Tutor — Android-приложение для создания и прохожд
 [UI-гайд](docs/ru/ui-guidelines.md)
 
 ---
-Статистика Firebase 24.03.26-20.04.26
+Статистика Firebase 03.06.26
 
 ![Скриншот приложения](assets/screenshot.png)
